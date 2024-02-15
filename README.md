@@ -1,15 +1,14 @@
-# Профіль користувача GitHub - Vitalii Zaluskii
+# Vitalii Zaluskii's profile
 
-## Привіт, я Віталій, і welcome to my profile!🚀 Тут ви знайдете різноманітні pet-проекти та інші цікаві роботи. 👋
+## Hello, I'm Vitaliy, and welcome to my profile! 🚀 Here you'll find various pet projects and other interesting works. 👋
 
-## Про мене 🌟
+## About me 🌟
 
-- **Вік:** 19 років
-- **Місцезнаходження:** :blue_square::yellow_square: Ukraine, Lviv
+- **Age:** 19 років
+- **Locating:** :blue_square::yellow_square: Ukraine, Lviv
+---
+## Programming languages and technologies 🖥️
 
-## Мови програмування та технології 🖥️
-
-- **Мови програмування та технології:**
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
@@ -21,4 +20,3 @@
 
 
 ---
-Ще раз вітаю на моєму GitHub профілі! 🌟
