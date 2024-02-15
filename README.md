@@ -4,7 +4,7 @@
 
 ## About me 🌟
 
-- **Age:** 19 
+- **Age:** 20
 - **Location:** :blue_square::yellow_square: Ukraine, Lviv
 ---
 ## Programming languages and technologies 🖥️
