@@ -26,6 +26,7 @@ Here you'll find my pet projects, experiments, and other interesting works.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/socketio/socketio-original-wordmark.svg" title="WebSocket" alt="WebSocket" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux-ToolKit" alt="Redux-ToolKit" width="40" height="40"/>
 </div>
 
 ---
