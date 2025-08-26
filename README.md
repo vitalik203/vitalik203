@@ -30,10 +30,10 @@ Here you'll find my pet projects, experiments, and other interesting works.
 
 ---
 
-## 📂 Featured Projects
+## 📂 My Projects
 
-### 🔹 [Project Name 1](https://github.com/username/project1)
-*Short description (stack used, purpose, features).*
+### 🔹 [PDF Summarizer with AI]([https://github.com/username/project1](https://pdf-summarize-vit-ai.vercel.app/)) 
+*This app allows to make a short summary from PDF using Gemini API* 🤖🧠
 
 ### 🔹 [Project Name 2](https://github.com/username/project2)
 *Short description.*
