@@ -32,7 +32,7 @@ Here you'll find my pet projects, experiments, and other interesting works.
 
 ## 📂 My Projects
 
-### 🔹 [PDF Summarizer with AI]([https://github.com/username/project1](https://pdf-summarize-vit-ai.vercel.app/)) 
+### 🔹 [PDF Summarizer with AI][https://github.com/username/project1](https://pdf-summarize-vit-ai.vercel.app/)
 *This app allows to make a short summary from PDF using Gemini API* 🤖🧠
 
 ### 🔹 [Project Name 2](https://github.com/username/project2)
