@@ -36,11 +36,8 @@ Here you'll find my pet projects, experiments, and other interesting works.
 ### 🔹 [PDF Summarizer with AI](https://pdf-summarize-vit-ai.vercel.app/)
 *This app allows to make a short summary from PDF using Gemini API* 🤖🧠
 
-### 🔹 [Project Name 2](https://github.com/username/project2)
-*Short description.*
-
-### 🔹 [Project Name 3](https://github.com/username/project3)
-*Short description.*
+### 🔹 [Web Site for department where I studied](https://imr-department.vercel.app/)
+*Developed a responsive website for my university department, featuring an interactive interface, structured content management, and modern web technologies.*
 
 ---
 
