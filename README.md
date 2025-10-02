@@ -31,7 +31,7 @@ Here you'll find my pet projects, experiments, and other interesting works.
 
 ---
 
-## 📂 My Projects
+## 📂 My Big Projects
 
 ### 🔹 [PDF Summarizer with AI](https://pdf-summarize-vit-ai.vercel.app/)
 *This app allows to make a short summary from PDF using Gemini API* 🤖🧠
