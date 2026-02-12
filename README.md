@@ -7,7 +7,7 @@ Here you'll find my pet projects, experiments, and other interesting works.
 ---
 
 ## 🌟 About Me
-- **Age:** 21  
+- **Age:** 22  
 - **Location:** 🇺🇦 Lviv, Ukraine  
 - **Goal:** To grow as a professional **Full-Stack Developer** and build impactful products.  
 
