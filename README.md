@@ -1,4 +1,4 @@
-# **Vitalii Zaluskii — Full‑Stack Developer**
+# **Vitalii Zaluskii — Front-End Developer**
 
 ## 👋 Hello!
 Hi, I'm **Vitalii** — welcome to my GitHub profile! 🚀  
